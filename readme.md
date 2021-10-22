@@ -15,3 +15,5 @@
 [27 Open Source Time Series Classification Software Projects](https://opensourcelibs.com/libs/time-series-classification)
 
 [Time Series Classification](https://paperswithcode.com/task/time-series-classification/latest?page=2)
+
+[Reinforcement Learning for Control of Valves](https://paperswithcode.com/paper/reinforcement-learning-for-control-of-valves)
