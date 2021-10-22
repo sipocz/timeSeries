@@ -14,3 +14,4 @@
 
 [27 Open Source Time Series Classification Software Projects](https://opensourcelibs.com/libs/time-series-classification)
 
+[Time Series Classification](https://paperswithcode.com/task/time-series-classification/latest?page=2)
