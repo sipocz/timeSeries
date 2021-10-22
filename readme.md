@@ -7,3 +7,10 @@
 [Time series classification based on statistical features](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-1661-4)
 
 [Deep Learning for Time Series Classification: InceptionTime](https://vasilis-stylianou.github.io/DL_for_TSC/)
+
+[InceptionTime: Finding AlexNet for Time Series Classification](https://arxiv.org/pdf/1909.04939.pdf)
+
+[Deep Neural Network Ensembles for Time Series Classification](https://arxiv.org/pdf/1903.06602.pdf)
+
+
+
