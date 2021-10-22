@@ -12,5 +12,5 @@
 
 [Deep Neural Network Ensembles for Time Series Classification](https://arxiv.org/pdf/1903.06602.pdf)
 
-
+[27 Open Source Time Series Classification Software Projects](https://opensourcelibs.com/libs/time-series-classification)
 
