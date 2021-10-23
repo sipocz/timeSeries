@@ -17,3 +17,5 @@
 [Time Series Classification](https://paperswithcode.com/task/time-series-classification/latest?page=2)
 
 [Reinforcement Learning for Control of Valves](https://paperswithcode.com/paper/reinforcement-learning-for-control-of-valves)
+
+[Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
