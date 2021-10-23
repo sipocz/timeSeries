@@ -4,6 +4,8 @@
 
 [Neural Network Based PI Controller Parameter Calculation on a Boiler Drum Level System](https://core.ac.uk/download/pdf/81981373.pdf)
 
+[Novel Fuzzy-Based Self-Adaptive Single Neuron PID Load Frequency Controller for Power System](https://sciendo.com/pdf/10.2478/pead-2019-0002)
+
 
 ### Time Series Library
 
