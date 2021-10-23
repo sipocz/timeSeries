@@ -10,6 +10,8 @@
 
 [Anomaly Detection for Industrial Control System Based on Autoencoder Neural Network](https://downloads.hindawi.com/journals/wcmc/2020/8897926.pdf)
 
+[How to use machine learning for anomaly detection and condition monitoring](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7)
+
 ### Time Series Library
 
 [Deep learning for time series classification: a review](https://github.com/sipocz/timeSeries/blob/ce3c7c1c6aff211c1000967d92de1b09a642877c/1809.04356.pdf)
