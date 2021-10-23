@@ -12,6 +12,8 @@
 
 [How to use machine learning for anomaly detection and condition monitoring](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7)
 
+[Anomaly Detection in Time Series Sensor Data](https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538)
+
 ### Time Series Library
 
 [Deep learning for time series classification: a review](https://github.com/sipocz/timeSeries/blob/ce3c7c1c6aff211c1000967d92de1b09a642877c/1809.04356.pdf)
