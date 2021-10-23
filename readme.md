@@ -1,7 +1,7 @@
 ### EWMA
 [Exponentially Weighted Moving Average (EWMA)](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/exponentially-weighted-moving-average-ewma/)
 
-[The Exponentially Weighted Moving Average](https://github.com/sipocz/timeSeries/raw/d62520f93f9a5812b3f0f57d615144fb69ed99f6/papers/ewma_tutorial.pdf)
+[The Exponentially Weighted Moving Average](https://github.com/sipocz/timeSeries/blob/d62520f93f9a5812b3f0f57d615144fb69ed99f6/papers/ewma_tutorial.pdf)
 
 ### PID
 
