@@ -1,3 +1,6 @@
+### EWMA
+[Exponentially Weighted Moving Average (EWMA)](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/exponentially-weighted-moving-average-ewma/)
+
 ### PID
 
 [Neural Network-Based Self-Tuning PID Control for Underwater Vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5038707/)
