@@ -1,3 +1,10 @@
+### PID
+
+[Neural Network-Based Self-Tuning PID Control for Underwater Vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5038707/)
+
+[Neural Network Based PI Controller Parameter Calculation on a Boiler Drum Level System](https://core.ac.uk/download/pdf/81981373.pdf)
+
+
 ### Time Series Library
 
 [Deep learning for time series classification: a review](https://github.com/sipocz/timeSeries/blob/ce3c7c1c6aff211c1000967d92de1b09a642877c/1809.04356.pdf)
