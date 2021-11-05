@@ -40,7 +40,7 @@
 
 [Reinforcement Learning for Control of Valves](https://paperswithcode.com/paper/reinforcement-learning-for-control-of-valves)
 
-[Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
+> [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
 
 
 [Anomaly detection: A survey ]( https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf)
