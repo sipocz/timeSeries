@@ -12,9 +12,9 @@
 
 [Novel Fuzzy-Based Self-Adaptive Single Neuron PID Load Frequency Controller for Power System](https://sciendo.com/pdf/10.2478/pead-2019-0002)
 
-> [Anomaly Detection for Industrial Control Systems Using Sequence-to-Sequence Neural Networks**](https://arxiv.org/pdf/1911.04831.pdf)
+> [Anomaly Detection for Industrial Control Systems Using Sequence-to-Sequence Neural Networks](https://arxiv.org/pdf/1911.04831.pdf)
 
-[Anomaly Detection for Industrial Control System Based on Autoencoder Neural Network](https://downloads.hindawi.com/journals/wcmc/2020/8897926.pdf)
+> [Anomaly Detection for Industrial Control System Based on Autoencoder Neural Network (https://downloads.hindawi.com/journals/wcmc/2020/8897926.pdf)
 
 [How to use machine learning for anomaly detection and condition monitoring](https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7)
 
