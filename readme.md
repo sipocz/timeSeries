@@ -1,3 +1,6 @@
+> ### [https://www.theinsaneapp.com/](https://www.theinsaneapp.com/)
+
+
 ### EWMA
 [Exponentially Weighted Moving Average (EWMA)](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/exponentially-weighted-moving-average-ewma/)
 
