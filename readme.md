@@ -4,7 +4,7 @@
 [Deep learning in neural networks: An overview  __ Jürgen Schmidhuber](https://github.com/sipocz/timeSeries/blob/9f744199239838b7563707242f6679baf30b638d/papers/1-s2.0-S0893608014002135-main.pdf)
 
 ### Recurrent Neural Network
-[Recurrent Neural Network](https://paperswithcode.com/paper/timenet-pre-trained-deep-recurrent-neural)
+[TimeNet: Pre-trained deep recurrent neural network for time series classification](https://paperswithcode.com/paper/timenet-pre-trained-deep-recurrent-neural)
 
 ### EWMA
 [Exponentially Weighted Moving Average (EWMA)](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/exponentially-weighted-moving-average-ewma/)
