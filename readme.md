@@ -68,5 +68,7 @@
 ### NLP
 [Distributed Representations of Words and Phrases
 and their Compositionality](https://github.com/sipocz/timeSeries/raw/32afafe2cbbc8d8aec2a418e1fc45934300627b0/papers/NIPS-2013-distributed-representations-of-words-and-phrases-and-their-compositionality-Paper.pdf)
+
 [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+
 [https://proceedings.neurips.cc/](https://proceedings.neurips.cc/)
