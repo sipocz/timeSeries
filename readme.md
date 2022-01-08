@@ -64,3 +64,7 @@
 [Outlier ensembles: position paper](https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf)
 
 [Unsupervised real-time anomaly detection for streaming data](https://github.com/sipocz/timeSeries/blob/91d3de1eac0ae5601f4e9fe0f284085d7a55d48f/papers/AhmadAnomalyDetectionNeurocomputing.pdf)
+
+### NLP
+[Distributed Representations of Words and Phrases
+and their Compositionality](https://github.com/sipocz/timeSeries/raw/32afafe2cbbc8d8aec2a418e1fc45934300627b0/papers/NIPS-2013-distributed-representations-of-words-and-phrases-and-their-compositionality-Paper.pdf)
