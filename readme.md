@@ -72,3 +72,5 @@ and their Compositionality](https://github.com/sipocz/timeSeries/raw/32afafe2cbb
 [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 [https://proceedings.neurips.cc/](https://proceedings.neurips.cc/)
+
+(A Hierarchical Model for Text Autosummarization)[https://www.semanticscholar.org/paper/A-Hierarchical-Model-for-Text-Autosummarization-Zhou/538991962b2e6e832183225a5b555d55a630dcef?p2df]
