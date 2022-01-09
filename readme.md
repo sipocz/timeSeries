@@ -73,4 +73,8 @@ and their Compositionality](https://github.com/sipocz/timeSeries/raw/32afafe2cbb
 
 [https://proceedings.neurips.cc/](https://proceedings.neurips.cc/)
 
-(A Hierarchical Model for Text Autosummarization)[https://www.semanticscholar.org/paper/A-Hierarchical-Model-for-Text-Autosummarization-Zhou/538991962b2e6e832183225a5b555d55a630dcef?p2df]
+[A Hierarchical Model for Text Autosummarization](https://www.semanticscholar.org/paper/A-Hierarchical-Model-for-Text-Autosummarization-Zhou/538991962b2e6e832183225a5b555d55a630dcef?p2df)
+
+[Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/pdf/1503.00075.pdf)
+
+
