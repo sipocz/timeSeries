@@ -77,4 +77,5 @@ and their Compositionality](https://github.com/sipocz/timeSeries/raw/32afafe2cbb
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/pdf/1503.00075.pdf)
 
+[SentEval _ An Evaluation Toolkit for Universal Sentence Representations.pdf](https://github.com/sipocz/timeSeries/blob/5cfd2f4a3e95138947b69d4dde90c6f46c269435/papers/SentEval%20_%20An%20Evaluation%20Toolkit%20for%20Universal%20Sentence%20Representations.pdf)
 
