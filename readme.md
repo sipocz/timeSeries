@@ -79,3 +79,4 @@ and their Compositionality](https://github.com/sipocz/timeSeries/raw/32afafe2cbb
 
 [SentEval _ An Evaluation Toolkit for Universal Sentence Representations.pdf](https://github.com/sipocz/timeSeries/blob/5cfd2f4a3e95138947b69d4dde90c6f46c269435/papers/SentEval%20_%20An%20Evaluation%20Toolkit%20for%20Universal%20Sentence%20Representations.pdf)
 
+[A Hierarchical Neural Autoencoder for Paragraphs and Documents.pdf](https://github.com/sipocz/timeSeries/blob/83be491987594564772c1a077ae66f0f2b46bcb8/papers/A%20Hierarchical%20Neural%20Autoencoder%20for%20Paragraphs%20and%20Documents.pdf)
